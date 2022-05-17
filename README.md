@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working with golang at @sumup
+- 🌱 I’m currently learning more and more about golang and terraform
+- 😄 Pronouns: he/him/his
+
 ![](https://raw.githubusercontent.com/maxforasteiro/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ![](https://raw.githubusercontent.com/maxforasteiro/github-stats/master/generated/languages.svg#gh-dark-mode-only)
