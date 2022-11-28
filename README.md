@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with golang at @sumup
-- 🌱 I’m currently learning more and more about golang and terraform
-- 😄 Pronouns: he/him/his
+- 🔭 I’m currently working with terraform and golang at @sumup.
+- 🌱 I’m currently learning more about AWS and terraform and transitioning from Software Engineer to Devops.
+- 🚯 I'm currently not open for job interviews.
+- 😄 Pronouns: he/him/his.
 
 ![](https://raw.githubusercontent.com/maxforasteiro/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
